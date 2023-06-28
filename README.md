@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # 💫 About Me:
 🌱 I’m currently learning Java and Python.<br>
 
